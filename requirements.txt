@@ -1,0 +1,34 @@
+# Core AI and Search
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+numpy==1.24.3
+torch==2.0.1
+
+# Document Processing
+PyMuPDF==1.23.8  # Better PDF handling
+PyPDF2==3.0.1    # Backup PDF support
+python-docx==0.8.11  # Word documents
+openpyxl==3.1.2   # Excel files
+pandas==2.0.3     # Data processing
+
+# Web Interface
+streamlit==1.28.1
+streamlit-chat==0.1.1
+
+# File Processing
+pathlib2==2.3.7
+
+
+# AI Integration (Ollama)
+requests==2.31.0
+httpx==0.25.0
+
+# Utilities
+tqdm==4.66.1      # Progress bars
+python-magic==0.4.27  # File type detection (optional)
+chardet==5.2.0    # Character encoding detection
+
+# Development and Testing
+pytest==7.4.3
+black==23.9.1
+flake8==6.1.0
