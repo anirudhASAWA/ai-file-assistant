@@ -235,9 +235,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-- **🐛 Bug Reports**: [Open an issue](https://github.com/yourusername/ai-file-assistant/issues)
-- **💡 Feature Requests**: [Discussions](https://github.com/yourusername/ai-file-assistant/discussions)
-- **📧 Email**: your.email@example.com
+- **🐛 Bug Reports**: [Open an issue](https://github.com/anirudhASAWA/ai-file-assistant/issues)
+- **💡 Feature Requests**: [Discussions](https://github.com/anirudhASAWA/ai-file-assistant/discussions)
+- **📧 Email**: asawaanirudh001@gmail.com
 
 ---
 
